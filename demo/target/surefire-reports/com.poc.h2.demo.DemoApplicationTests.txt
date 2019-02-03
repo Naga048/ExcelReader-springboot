@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.poc.h2.demo.DemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.103 s - in com.poc.h2.demo.DemoApplicationTests

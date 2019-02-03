@@ -1,0 +1,6 @@
+com\poc\h2\demo\StudentRepository.class
+com\poc\h2\demo\Student.class
+com\poc\h2\demo\StudentController.class
+com\poc\h2\demo\DemoApplication.class
+com\poc\h2\demo\ObjectCustomMethods.class
+com\poc\h2\demo\StudentRepositoryImpl.class
